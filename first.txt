@@ -1,0 +1,7 @@
+This is the first line
+
+this is the second line
+
+this third line
+
+!boom goes the dynamite
